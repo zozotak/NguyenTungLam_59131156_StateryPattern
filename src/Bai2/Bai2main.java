@@ -36,5 +36,6 @@ public class Bai2main {
         GH2.hienthiDSHH();
         System.out.println("Tổng tiền giỏ hàng 2: " + GH2.tinhtien());
         System.out.println("Tổng tiền khách trả COD: " + GH2.thanhToan(GH2.tinhtien()));
+        //dă
     }
 }
